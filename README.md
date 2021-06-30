@@ -22,10 +22,17 @@ https://tuita.vercel.app/
 If you want run the project locally, you need the Firebase keys and place it into a file called "firebase-keys.json" in "firebase" folder. After run de command "npm run dev".
 
   
-## Screenshots
+## Screenshot
 
-![App Screenshot](https://i.imgur.com/EVJOnSC.png)
 ![App Screenshot2](https://i.imgur.com/ghTe6Et.png)
-![App Screenshot3](https://i.imgur.com/JaPHT7N.png)
-![App Screenshot4](https://i.imgur.com/6mcGF1U.png)
+
   
+## Contact me
+
+<ul>
+  <li><a href="https://linkedin.com/in/angelo-grangetto">LinkedIn<a></li>
+  <li><a href="https://github.com/angelograngetto">GitHub<a></li>
+  <li><a href="https://angelograngetto.com.ar">Portfolio<a></li>
+</ul>
+
+
